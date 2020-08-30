@@ -1,7 +1,6 @@
-project_name: gphotos-takeout-formatter
+project_name: gphotos-takeout
 before:
   hooks:
-    # You may remove this if you don't use go modules.
     - go mod download
 builds:
   - env:

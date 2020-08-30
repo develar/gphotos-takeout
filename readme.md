@@ -8,3 +8,17 @@ Not implemented yet:
 
  * Store albums. Albums info is not copied for now, but should be or symlinks created, or some meta-file. That's why for now hard-links are used — keep original takeout directory.
  * Update EXIF data (geolocation from Google). Sometimes you don't encode geolocation into files, but Google infers it from location history.
+
+## Install
+
+[Download](https://github.com/develar/gphotos-takeout/releases/latest) or install from sources:
+
+```sh
+GO111MODULE=on go get github.com/develar/gphotos-takeout
+```
+
+## Usage
+
+```sh
+gphotos-takeout --input photos-takeout --output photos
+```

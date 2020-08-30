@@ -1,4 +1,4 @@
-module gphotos-takeout-formatter
+module gphotos-takeout
 
 go 1.15
 
