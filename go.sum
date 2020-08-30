@@ -1,0 +1,6 @@
+github.com/klauspost/cpuid v1.3.1 h1:5JNjFYYQrZeKRJ0734q51WCEEn2huer72Dc7K+R/b6s=
+github.com/klauspost/cpuid v1.3.1/go.mod h1:bYW4mA6ZgKPob1/Dlai2LviZJO7KGI3uoWLd42rAQw4=
+github.com/valyala/fastjson v1.5.4 h1:r8gpiVwdzDU09NrlN38OyL5dUFpdwGQR5RQEBqY+hLg=
+github.com/valyala/fastjson v1.5.4/go.mod h1:CLCAqky6SMuOcxStkYQvblddUtoRxhYMGLrsQns1aXY=
+lukechampine.com/blake3 v1.1.4 h1:cVl4fhMGfCaCFrs4sBb8R/iEMeL0g4CfQp/sAHBDxOI=
+lukechampine.com/blake3 v1.1.4/go.mod h1:hE8RpzdO8ttZ7446CXEwDP1eu2V4z7stv0Urj1El20g=
