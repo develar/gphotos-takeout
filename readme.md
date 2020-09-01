@@ -20,5 +20,5 @@ GO111MODULE=on go get github.com/develar/gphotos-takeout
 ## Usage
 
 ```sh
-gphotos-takeout --input photos-takeout --output photos
+gphotos-takeout -i photos-takeout -o photos
 ```
